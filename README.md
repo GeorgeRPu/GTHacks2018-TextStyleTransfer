@@ -1,5 +1,5 @@
-# TextStyleTransfer
-Creates a new sentence with the contents of sentence A but the style of sentence B (to a degree). InferSent pulled from a [Facebook repo](https://github.com/facebookresearch/InferSent). Made at GTHacks2018.
+# GTHacks2018-TextStyleTransfer
+Creates a new sentence with the contents of sentence A but the style of sentence B (to a degree). InferSent pulled from a [Facebook repo](https://github.com/facebookresearch/InferSent).
 
 ## Dependencies
 - Numpy
